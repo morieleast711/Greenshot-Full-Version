@@ -241,4 +241,4 @@ This repository serves as the official landing page for Greenshot. The software 
 **Get the most recent version of Greenshot today!**
 
 ---
-**Last updated:** 2026-10-07 20:15:19 UTC
+**Last updated:** 2026-10-08 00:30:32 UTC
